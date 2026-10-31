@@ -60,7 +60,7 @@ and the project follows [Semantic Versioning](https://semver.org/).
   `fingerprint_saas`, provider fingerprinting) — only the transport layer
   and CLI changed.
 
-## [1.0.0] - 2026-10-XX
+## [1.0.0] - 2026-04-29
 
 Initial public release. Subdomain enumeration via CT log cascade
 (crt.sh → certspotter → hackertarget), DNS resolution, HTTP probing,
