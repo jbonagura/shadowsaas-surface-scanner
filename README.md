@@ -1,5 +1,13 @@
 # ShadowSaaS Surface Scanner
 
+# ShadowSaaS Surface Scanner
+
+[![Release](https://img.shields.io/github/v/release/jbonagura/shadowsaas-surface-scanner?label=release)](https://github.com/jbonagura/shadowsaas-surface-scanner/releases/latest)
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/github/license/jbonagura/shadowsaas-surface-scanner)](LICENSE)
+
+Subdomain takeover detector that correlates DNS, HTTP, and provider-specific fingerprints...
+
 **Subdomain Takeover & Dangling CNAME Detector**  
 Author: [Jordan Bonagura](https://www.linkedin.com/in/jordan-bonagura) | [Secure Ideas - Professionally Evil](https://www.secureideas.com) | Version: 1.0
 
