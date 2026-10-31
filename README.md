@@ -1,7 +1,5 @@
 # ShadowSaaS Surface Scanner
 
-# ShadowSaaS Surface Scanner
-
 [![Release](https://img.shields.io/github/v/release/jbonagura/shadowsaas-surface-scanner?label=release)](https://github.com/jbonagura/shadowsaas-surface-scanner/releases/latest)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/github/license/jbonagura/shadowsaas-surface-scanner)](LICENSE)
